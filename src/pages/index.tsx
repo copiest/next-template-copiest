@@ -1,8 +1,9 @@
 import styled from '@emotion/styled'
-import { MESSAGE } from '@constants'
+import Message from '@shared/Message'
+
 
 function IndexPage() {
-    return <Container>{MESSAGE}</Container>
+    return <Container><Message /></Container>
 }
 
 const Container = styled.div``
