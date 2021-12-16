@@ -1,1 +1,1 @@
-export const MESSAGE = 'Next Template 1205'
+export const MESSAGE = 'Next Template Copiest'
