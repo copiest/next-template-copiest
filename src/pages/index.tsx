@@ -11,4 +11,8 @@ function IndexPage() {
 
 const Container = styled.div``
 
+export const getStaticProps = () => {
+  return { props: {} }
+}
+
 export default IndexPage
